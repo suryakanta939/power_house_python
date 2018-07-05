@@ -1,0 +1,7 @@
+[
+  "tests/LoginTest/test_sign_up.py::TestSignUp::test_signup",
+  "tests/LoginTest/test_with_googlelogin.py::TestWithGoogle::test_google_login",
+  "tests/checking/test_browser.py::TestBrowser::test_methodA",
+  "tests/power_house_services_test/test_powerpage_purchase.py::TestPowerPagePurchase::test_powerpage_purchase",
+  "tests/power_house_services_test/test_powersite_free_purchase.py::TestPowerservicespowerSite::test_powersite_Purchase"
+]

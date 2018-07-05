@@ -1,0 +1,339 @@
+07/03/2018 05:41:02 PM - SeleniumDriver - INFO: Element found with locator: fe_text and  locatorType: id
+07/03/2018 05:41:03 PM - SeleniumDriver - INFO: the total no of window is 2
+07/03/2018 05:41:03 PM - SeleniumDriver - INFO: switched to the desired window
+07/03/2018 05:41:09 PM - SeleniumDriver - INFO: Element found with locator: register-trigger and  locatorType: id
+07/03/2018 05:41:10 PM - SeleniumDriver - INFO: Clicked on element with locator: register-trigger locatorType: id
+07/03/2018 05:41:12 PM - SeleniumDriver - INFO: Element found with locator: reg-name and  locatorType: id
+07/03/2018 05:41:12 PM - SeleniumDriver - INFO: Entered the data rosedb to the element found by reg-name
+07/03/2018 05:41:13 PM - SeleniumDriver - INFO: Element found with locator: reg-email and  locatorType: id
+07/03/2018 05:41:14 PM - SeleniumDriver - INFO: Entered the data zsn91562@lakqs.com to the element found by reg-email
+07/03/2018 05:41:15 PM - SeleniumDriver - INFO: Element found with locator: reg-pass and  locatorType: id
+07/03/2018 05:41:15 PM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by reg-pass
+07/03/2018 05:41:16 PM - SeleniumDriver - INFO: Element found with locator: reg-pass-confirmation and  locatorType: id
+07/03/2018 05:41:16 PM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by reg-pass-confirmation
+07/03/2018 05:41:17 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='reg_submit'] and  locatorType: xpath
+07/03/2018 05:41:21 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='reg_submit'] locatorType: xpath
+07/03/2018 05:41:21 PM - SeleniumDriver - INFO: Element found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/03/2018 05:41:21 PM - SeleniumDriver - INFO: Element found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/03/2018 05:41:22 PM - SeleniumDriver - INFO: the total no of window is 1
+07/03/2018 05:41:22 PM - SeleniumDriver - INFO: switched to the desired window
+07/03/2018 05:41:22 PM - SeleniumDriver - INFO: Element  not found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/03/2018 05:41:38 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/03/2018 05:41:38 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/03/2018 05:41:43 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Activate your account')] locatorType: xpath
+07/03/2018 05:41:44 PM - SeleniumDriver - INFO: Element found with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a and  locatorType: xpath
+07/03/2018 05:41:44 PM - SeleniumDriver - INFO: Element found with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a and  locatorType: xpath
+07/03/2018 05:41:44 PM - SeleniumDriver - INFO: Clicked on element with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a locatorType: xpath
+07/03/2018 05:41:44 PM - SeleniumDriver - INFO: the total no of window is 2
+07/03/2018 05:41:44 PM - SeleniumDriver - INFO: switched to the desired window
+07/03/2018 05:41:49 PM - SeleniumDriver - INFO: Element found with locator: //h1[@class='entry-title'] and  locatorType: xpath
+07/03/2018 05:41:49 PM - SeleniumDriver - INFO: Element found with locator: //a[text()='log in'] and  locatorType: xpath
+07/03/2018 05:41:53 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[text()='log in'] locatorType: xpath
+07/03/2018 05:41:53 PM - SeleniumDriver - INFO: Element found with locator: user and  locatorType: id
+07/03/2018 05:41:53 PM - SeleniumDriver - INFO: Entered the data zsn91562@lakqs.com to the element found by user
+07/03/2018 05:41:53 PM - SeleniumDriver - INFO: Element found with locator: pass and  locatorType: id
+07/03/2018 05:41:53 PM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by pass
+07/03/2018 05:41:53 PM - SeleniumDriver - INFO: Element found with locator: wp-submit and  locatorType: id
+07/03/2018 05:42:04 PM - SeleniumDriver - INFO: Clicked on element with locator: wp-submit locatorType: id
+07/03/2018 05:42:04 PM - SeleniumDriver - INFO: Element  not found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/03/2018 05:42:07 PM - SeleniumDriver - INFO: Element  not found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/03/2018 05:42:10 PM - SeleniumDriver - INFO: Element  not found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/03/2018 05:42:13 PM - SeleniumDriver - INFO: Element  not found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/03/2018 05:42:16 PM - SeleniumDriver - INFO: Element  not found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/03/2018 05:42:19 PM - SeleniumDriver - INFO: Element  not found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/03/2018 05:42:22 PM - SeleniumDriver - INFO: Element  not found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/03/2018 05:42:25 PM - SeleniumDriver - INFO: Element  not found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/03/2018 05:42:28 PM - SeleniumDriver - INFO: Element  not found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/03/2018 05:42:31 PM - SeleniumDriver - INFO: Element  not found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/03/2018 05:43:44 PM - SeleniumDriver - INFO: Element found with locator: fe_text and  locatorType: id
+07/03/2018 05:43:44 PM - SeleniumDriver - INFO: the total no of window is 2
+07/03/2018 05:43:44 PM - SeleniumDriver - INFO: switched to the desired window
+07/03/2018 05:43:47 PM - SeleniumDriver - INFO: Element found with locator: register-trigger and  locatorType: id
+07/03/2018 05:43:47 PM - SeleniumDriver - INFO: Clicked on element with locator: register-trigger locatorType: id
+07/03/2018 05:43:49 PM - SeleniumDriver - INFO: Element found with locator: reg-name and  locatorType: id
+07/03/2018 05:43:50 PM - SeleniumDriver - INFO: Entered the data elladb to the element found by reg-name
+07/03/2018 05:43:51 PM - SeleniumDriver - INFO: Element found with locator: reg-email and  locatorType: id
+07/03/2018 05:43:51 PM - SeleniumDriver - INFO: Entered the data hbt67001@sawoe.com to the element found by reg-email
+07/03/2018 05:43:52 PM - SeleniumDriver - INFO: Element found with locator: reg-pass and  locatorType: id
+07/03/2018 05:43:52 PM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by reg-pass
+07/03/2018 05:43:53 PM - SeleniumDriver - INFO: Element found with locator: reg-pass-confirmation and  locatorType: id
+07/03/2018 05:43:53 PM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by reg-pass-confirmation
+07/03/2018 05:43:54 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='reg_submit'] and  locatorType: xpath
+07/03/2018 05:43:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='reg_submit'] locatorType: xpath
+07/03/2018 05:43:59 PM - SeleniumDriver - INFO: Element found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/03/2018 05:43:59 PM - SeleniumDriver - INFO: Element found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/03/2018 05:43:59 PM - SeleniumDriver - INFO: the total no of window is 1
+07/03/2018 05:43:59 PM - SeleniumDriver - INFO: switched to the desired window
+07/03/2018 05:43:59 PM - SeleniumDriver - INFO: Element  not found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/03/2018 05:44:08 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/03/2018 05:44:08 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/03/2018 05:44:13 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Activate your account')] locatorType: xpath
+07/03/2018 05:44:13 PM - SeleniumDriver - INFO: Element found with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a and  locatorType: xpath
+07/03/2018 05:44:13 PM - SeleniumDriver - INFO: Element found with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a and  locatorType: xpath
+07/03/2018 05:44:13 PM - SeleniumDriver - INFO: Clicked on element with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a locatorType: xpath
+07/03/2018 05:44:13 PM - SeleniumDriver - INFO: the total no of window is 2
+07/03/2018 05:44:13 PM - SeleniumDriver - INFO: switched to the desired window
+07/03/2018 05:44:19 PM - SeleniumDriver - INFO: Element found with locator: //h1[@class='entry-title'] and  locatorType: xpath
+07/03/2018 05:44:19 PM - SeleniumDriver - INFO: Element found with locator: //a[text()='log in'] and  locatorType: xpath
+07/03/2018 05:44:23 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[text()='log in'] locatorType: xpath
+07/03/2018 05:44:23 PM - SeleniumDriver - INFO: Element found with locator: user and  locatorType: id
+07/03/2018 05:44:23 PM - SeleniumDriver - INFO: Entered the data hbt67001@sawoe.com to the element found by user
+07/03/2018 05:44:23 PM - SeleniumDriver - INFO: Element found with locator: pass and  locatorType: id
+07/03/2018 05:44:23 PM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by pass
+07/03/2018 05:44:23 PM - SeleniumDriver - INFO: Element found with locator: wp-submit and  locatorType: id
+07/03/2018 05:44:33 PM - SeleniumDriver - INFO: Clicked on element with locator: wp-submit locatorType: id
+07/03/2018 05:44:38 PM - SeleniumDriver - INFO: Element found with locator: //img[contains(@src,'//storage.googleapis.com/staging-powerhouse-social/')] and  locatorType: xpath
+07/03/2018 05:44:38 PM - SeleniumDriver - INFO: Element found with locator: //img[contains(@src,'//storage.googleapis.com/staging-powerhouse-social/')] and  locatorType: xpath
+07/03/2018 05:44:38 PM - SeleniumDriver - INFO: element on locator //img[contains(@src,'//storage.googleapis.com/staging-powerhouse-social/')] is present
+07/04/2018 10:03:20 AM - SeleniumDriver - INFO: Element found with locator: fe_text and  locatorType: id
+07/04/2018 10:03:21 AM - SeleniumDriver - INFO: the total no of window is 2
+07/04/2018 10:03:21 AM - SeleniumDriver - INFO: switched to the desired window
+07/04/2018 10:03:24 AM - SeleniumDriver - INFO: Element found with locator: register-trigger and  locatorType: id
+07/04/2018 10:03:24 AM - SeleniumDriver - INFO: Clicked on element with locator: register-trigger locatorType: id
+07/04/2018 10:03:26 AM - SeleniumDriver - INFO: Element found with locator: reg-name and  locatorType: id
+07/04/2018 10:03:27 AM - SeleniumDriver - INFO: Entered the data donnadb to the element found by reg-name
+07/04/2018 10:03:28 AM - SeleniumDriver - INFO: Element found with locator: reg-email and  locatorType: id
+07/04/2018 10:03:28 AM - SeleniumDriver - INFO: Entered the data jlv56659@sawoe.com to the element found by reg-email
+07/04/2018 10:03:29 AM - SeleniumDriver - INFO: Element found with locator: reg-pass and  locatorType: id
+07/04/2018 10:03:29 AM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by reg-pass
+07/04/2018 10:03:30 AM - SeleniumDriver - INFO: Element found with locator: reg-pass-confirmation and  locatorType: id
+07/04/2018 10:03:30 AM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by reg-pass-confirmation
+07/04/2018 10:03:31 AM - SeleniumDriver - INFO: Element found with locator: //input[@name='reg_submit'] and  locatorType: xpath
+07/04/2018 10:03:37 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='reg_submit'] locatorType: xpath
+07/04/2018 10:03:37 AM - SeleniumDriver - INFO: Element found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/04/2018 10:03:37 AM - SeleniumDriver - INFO: Element found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/04/2018 10:03:37 AM - SeleniumDriver - INFO: the total no of window is 1
+07/04/2018 10:03:37 AM - SeleniumDriver - INFO: switched to the desired window
+07/04/2018 10:03:37 AM - SeleniumDriver - INFO: Element  not found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/04/2018 10:03:46 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/04/2018 10:03:46 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/04/2018 10:03:50 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Activate your account')] locatorType: xpath
+07/04/2018 10:03:50 AM - SeleniumDriver - INFO: Element found with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a and  locatorType: xpath
+07/04/2018 10:03:50 AM - SeleniumDriver - INFO: Element found with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a and  locatorType: xpath
+07/04/2018 10:03:50 AM - SeleniumDriver - INFO: Clicked on element with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a locatorType: xpath
+07/04/2018 10:03:50 AM - SeleniumDriver - INFO: the total no of window is 2
+07/04/2018 10:03:50 AM - SeleniumDriver - INFO: switched to the desired window
+07/04/2018 10:03:55 AM - SeleniumDriver - INFO: Element found with locator: //h1[@class='entry-title'] and  locatorType: xpath
+07/04/2018 10:03:55 AM - SeleniumDriver - INFO: Element found with locator: //a[text()='log in'] and  locatorType: xpath
+07/04/2018 10:03:59 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[text()='log in'] locatorType: xpath
+07/04/2018 10:04:00 AM - SeleniumDriver - INFO: Element found with locator: user and  locatorType: id
+07/04/2018 10:04:00 AM - SeleniumDriver - INFO: Entered the data jlv56659@sawoe.com to the element found by user
+07/04/2018 10:04:00 AM - SeleniumDriver - INFO: Element found with locator: pass and  locatorType: id
+07/04/2018 10:04:00 AM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by pass
+07/04/2018 10:04:00 AM - SeleniumDriver - INFO: Element found with locator: wp-submit and  locatorType: id
+07/04/2018 10:04:12 AM - SeleniumDriver - INFO: Clicked on element with locator: wp-submit locatorType: id
+07/04/2018 10:04:17 AM - SeleniumDriver - INFO: Element found with locator: //img[contains(@src,'//storage.googleapis.com/staging-powerhouse-social/')] and  locatorType: xpath
+07/04/2018 10:04:17 AM - SeleniumDriver - INFO: Element found with locator: //img[contains(@src,'//storage.googleapis.com/staging-powerhouse-social/')] and  locatorType: xpath
+07/04/2018 10:04:17 AM - SeleniumDriver - INFO: element on locator //img[contains(@src,'//storage.googleapis.com/staging-powerhouse-social/')] is present
+07/04/2018 10:06:19 AM - SeleniumDriver - INFO: Element found with locator: fe_text and  locatorType: id
+07/04/2018 10:06:19 AM - SeleniumDriver - INFO: the total no of window is 2
+07/04/2018 10:06:19 AM - SeleniumDriver - INFO: switched to the desired window
+07/04/2018 10:06:19 AM - SeleniumDriver - INFO: Element  not found with locator: register-trigger and  locatorType: id
+07/04/2018 10:06:19 AM - SeleniumDriver - INFO: Screenshot save to directory: D:\Selnium_python\PowerHouse\base_utils\../screenshots/test_signup (tests.LoginTest.test_sign_up.TestSignUp).1530678979590.png
+07/04/2018 10:09:04 AM - SeleniumDriver - INFO: Element found with locator: fe_text and  locatorType: id
+07/04/2018 10:09:04 AM - SeleniumDriver - INFO: the total no of window is 2
+07/04/2018 10:09:04 AM - SeleniumDriver - INFO: switched to the desired window
+07/04/2018 10:09:04 AM - SeleniumDriver - INFO: Element  not found with locator: register-trigger and  locatorType: id
+07/04/2018 10:09:04 AM - SeleniumDriver - INFO: Screenshot save to directory: D:\Selnium_python\PowerHouse\base_utils\../screenshots/test_signup (tests.LoginTest.test_sign_up.TestSignUp).1530679144121.png
+07/04/2018 10:11:05 AM - SeleniumDriver - INFO: Element found with locator: fe_text and  locatorType: id
+07/04/2018 10:11:05 AM - SeleniumDriver - INFO: the total no of window is 2
+07/04/2018 10:11:05 AM - SeleniumDriver - INFO: switched to the desired window
+07/04/2018 10:11:05 AM - SeleniumDriver - INFO: Element  not found with locator: register-trigger and  locatorType: id
+07/04/2018 10:11:08 AM - SeleniumDriver - INFO: Element found with locator: register-trigger and  locatorType: id
+07/04/2018 10:11:08 AM - SeleniumDriver - INFO: Element found with locator: register-trigger and  locatorType: id
+07/04/2018 10:11:08 AM - SeleniumDriver - INFO: Clicked on element with locator: register-trigger locatorType: id
+07/04/2018 10:11:10 AM - SeleniumDriver - INFO: Element found with locator: reg-name and  locatorType: id
+07/04/2018 10:11:11 AM - SeleniumDriver - INFO: Entered the data christiedb to the element found by reg-name
+07/04/2018 10:11:12 AM - SeleniumDriver - INFO: Element found with locator: reg-email and  locatorType: id
+07/04/2018 10:11:12 AM - SeleniumDriver - INFO: Entered the data krd39165@lakqs.com to the element found by reg-email
+07/04/2018 10:11:13 AM - SeleniumDriver - INFO: Element found with locator: reg-pass and  locatorType: id
+07/04/2018 10:11:13 AM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by reg-pass
+07/04/2018 10:11:14 AM - SeleniumDriver - INFO: Element found with locator: reg-pass-confirmation and  locatorType: id
+07/04/2018 10:11:15 AM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by reg-pass-confirmation
+07/04/2018 10:11:16 AM - SeleniumDriver - INFO: Element found with locator: //input[@name='reg_submit'] and  locatorType: xpath
+07/04/2018 10:11:20 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='reg_submit'] locatorType: xpath
+07/04/2018 10:11:20 AM - SeleniumDriver - INFO: Element found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/04/2018 10:11:20 AM - SeleniumDriver - INFO: Element found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/04/2018 10:11:20 AM - SeleniumDriver - INFO: the total no of window is 1
+07/04/2018 10:11:20 AM - SeleniumDriver - INFO: switched to the desired window
+07/04/2018 10:11:20 AM - SeleniumDriver - INFO: Element  not found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/04/2018 10:11:28 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/04/2018 10:11:28 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/04/2018 10:11:33 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Activate your account')] locatorType: xpath
+07/04/2018 10:11:33 AM - SeleniumDriver - INFO: Element found with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a and  locatorType: xpath
+07/04/2018 10:11:33 AM - SeleniumDriver - INFO: Element found with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a and  locatorType: xpath
+07/04/2018 10:11:33 AM - SeleniumDriver - INFO: Clicked on element with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a locatorType: xpath
+07/04/2018 10:11:33 AM - SeleniumDriver - INFO: the total no of window is 1
+07/04/2018 10:11:34 AM - SeleniumDriver - INFO: Element  not found with locator: //h1[@class='entry-title'] and  locatorType: xpath
+07/04/2018 10:11:34 AM - SeleniumDriver - INFO: Screenshot save to directory: D:\Selnium_python\PowerHouse\base_utils\../screenshots/test_signup (tests.LoginTest.test_sign_up.TestSignUp).1530679294043.png
+07/04/2018 10:15:51 AM - SeleniumDriver - INFO: Element found with locator: fe_text and  locatorType: id
+07/04/2018 10:15:51 AM - SeleniumDriver - INFO: the total no of window is 2
+07/04/2018 10:15:51 AM - SeleniumDriver - INFO: switched to the desired window
+07/04/2018 10:15:51 AM - SeleniumDriver - INFO: Element  not found with locator: register-trigger and  locatorType: id
+07/04/2018 10:15:54 AM - SeleniumDriver - INFO: Element found with locator: register-trigger and  locatorType: id
+07/04/2018 10:15:54 AM - SeleniumDriver - INFO: Element found with locator: register-trigger and  locatorType: id
+07/04/2018 10:15:54 AM - SeleniumDriver - INFO: Clicked on element with locator: register-trigger locatorType: id
+07/04/2018 10:15:56 AM - SeleniumDriver - INFO: Element found with locator: reg-name and  locatorType: id
+07/04/2018 10:15:56 AM - SeleniumDriver - INFO: Entered the data shirleydb to the element found by reg-name
+07/04/2018 10:15:57 AM - SeleniumDriver - INFO: Element found with locator: reg-email and  locatorType: id
+07/04/2018 10:15:57 AM - SeleniumDriver - INFO: Entered the data rgq99512@lakqs.com to the element found by reg-email
+07/04/2018 10:15:58 AM - SeleniumDriver - INFO: Element found with locator: reg-pass and  locatorType: id
+07/04/2018 10:15:59 AM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by reg-pass
+07/04/2018 10:16:00 AM - SeleniumDriver - INFO: Element found with locator: reg-pass-confirmation and  locatorType: id
+07/04/2018 10:16:00 AM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by reg-pass-confirmation
+07/04/2018 10:16:01 AM - SeleniumDriver - INFO: Element found with locator: //input[@name='reg_submit'] and  locatorType: xpath
+07/04/2018 10:16:05 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='reg_submit'] locatorType: xpath
+07/04/2018 10:16:05 AM - SeleniumDriver - INFO: Element found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/04/2018 10:16:05 AM - SeleniumDriver - INFO: Element found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/04/2018 10:16:05 AM - SeleniumDriver - INFO: the total no of window is 1
+07/04/2018 10:16:05 AM - SeleniumDriver - INFO: switched to the desired window
+07/04/2018 10:16:05 AM - SeleniumDriver - INFO: Element  not found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/04/2018 10:16:14 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/04/2018 10:16:14 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/04/2018 10:16:20 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Activate your account')] locatorType: xpath
+07/04/2018 10:16:20 AM - SeleniumDriver - INFO: Element found with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a and  locatorType: xpath
+07/04/2018 10:16:20 AM - SeleniumDriver - INFO: Element found with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a and  locatorType: xpath
+07/04/2018 10:16:20 AM - SeleniumDriver - INFO: Clicked on element with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a locatorType: xpath
+07/04/2018 10:16:20 AM - SeleniumDriver - INFO: the total no of window is 2
+07/04/2018 10:16:20 AM - SeleniumDriver - INFO: switched to the desired window
+07/04/2018 10:16:24 AM - SeleniumDriver - INFO: Element  not found with locator: //h1[@class='entry-title'] and  locatorType: xpath
+07/04/2018 10:16:24 AM - SeleniumDriver - INFO: Screenshot save to directory: D:\Selnium_python\PowerHouse\base_utils\../screenshots/test_signup (tests.LoginTest.test_sign_up.TestSignUp).1530679584436.png
+07/04/2018 10:17:49 AM - SeleniumDriver - INFO: Element found with locator: fe_text and  locatorType: id
+07/04/2018 10:17:49 AM - SeleniumDriver - INFO: the total no of window is 2
+07/04/2018 10:17:49 AM - SeleniumDriver - INFO: switched to the desired window
+07/04/2018 10:17:49 AM - SeleniumDriver - INFO: Element  not found with locator: register-trigger and  locatorType: id
+07/04/2018 10:17:52 AM - SeleniumDriver - INFO: Element found with locator: register-trigger and  locatorType: id
+07/04/2018 10:17:52 AM - SeleniumDriver - INFO: Element found with locator: register-trigger and  locatorType: id
+07/04/2018 10:17:53 AM - SeleniumDriver - INFO: Clicked on element with locator: register-trigger locatorType: id
+07/04/2018 10:17:55 AM - SeleniumDriver - INFO: Element found with locator: reg-name and  locatorType: id
+07/04/2018 10:17:55 AM - SeleniumDriver - INFO: Entered the data wandadb to the element found by reg-name
+07/04/2018 10:17:56 AM - SeleniumDriver - INFO: Element found with locator: reg-email and  locatorType: id
+07/04/2018 10:17:56 AM - SeleniumDriver - INFO: Entered the data sgt97354@lakqs.com to the element found by reg-email
+07/04/2018 10:17:57 AM - SeleniumDriver - INFO: Element found with locator: reg-pass and  locatorType: id
+07/04/2018 10:17:57 AM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by reg-pass
+07/04/2018 10:17:58 AM - SeleniumDriver - INFO: Element found with locator: reg-pass-confirmation and  locatorType: id
+07/04/2018 10:17:58 AM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by reg-pass-confirmation
+07/04/2018 10:17:59 AM - SeleniumDriver - INFO: Element found with locator: //input[@name='reg_submit'] and  locatorType: xpath
+07/04/2018 10:18:03 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='reg_submit'] locatorType: xpath
+07/04/2018 10:18:03 AM - SeleniumDriver - INFO: Element found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/04/2018 10:18:03 AM - SeleniumDriver - INFO: Element found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/04/2018 10:18:03 AM - SeleniumDriver - INFO: the total no of window is 1
+07/04/2018 10:18:03 AM - SeleniumDriver - INFO: switched to the desired window
+07/04/2018 10:18:03 AM - SeleniumDriver - INFO: Element  not found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/04/2018 10:18:12 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/04/2018 10:18:12 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/04/2018 10:18:16 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Activate your account')] locatorType: xpath
+07/04/2018 10:18:16 AM - SeleniumDriver - INFO: Element found with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a and  locatorType: xpath
+07/04/2018 10:18:16 AM - SeleniumDriver - INFO: Element found with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a and  locatorType: xpath
+07/04/2018 10:18:16 AM - SeleniumDriver - INFO: Clicked on element with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a locatorType: xpath
+07/04/2018 10:18:16 AM - SeleniumDriver - INFO: the total no of window is 1
+07/04/2018 10:18:20 AM - SeleniumDriver - INFO: Element  not found with locator: //h1[@class='entry-title'] and  locatorType: xpath
+07/04/2018 10:18:21 AM - SeleniumDriver - INFO: Screenshot save to directory: D:\Selnium_python\PowerHouse\base_utils\../screenshots/test_signup (tests.LoginTest.test_sign_up.TestSignUp).1530679700719.png
+07/04/2018 10:21:43 AM - SeleniumDriver - INFO: Element found with locator: fe_text and  locatorType: id
+07/04/2018 10:21:43 AM - SeleniumDriver - INFO: the total no of window is 2
+07/04/2018 10:21:43 AM - SeleniumDriver - INFO: switched to the desired window
+07/04/2018 10:21:43 AM - SeleniumDriver - INFO: Element  not found with locator: register-trigger and  locatorType: id
+07/04/2018 10:21:46 AM - SeleniumDriver - INFO: Element found with locator: register-trigger and  locatorType: id
+07/04/2018 10:21:46 AM - SeleniumDriver - INFO: Element found with locator: register-trigger and  locatorType: id
+07/04/2018 10:21:47 AM - SeleniumDriver - INFO: Clicked on element with locator: register-trigger locatorType: id
+07/04/2018 10:21:49 AM - SeleniumDriver - INFO: Element found with locator: reg-name and  locatorType: id
+07/04/2018 10:21:49 AM - SeleniumDriver - INFO: Entered the data lilliedb to the element found by reg-name
+07/04/2018 10:21:50 AM - SeleniumDriver - INFO: Element found with locator: reg-email and  locatorType: id
+07/04/2018 10:21:50 AM - SeleniumDriver - INFO: Entered the data zut33466@lakqs.com to the element found by reg-email
+07/04/2018 10:21:51 AM - SeleniumDriver - INFO: Element found with locator: reg-pass and  locatorType: id
+07/04/2018 10:21:51 AM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by reg-pass
+07/04/2018 10:21:52 AM - SeleniumDriver - INFO: Element found with locator: reg-pass-confirmation and  locatorType: id
+07/04/2018 10:21:52 AM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by reg-pass-confirmation
+07/04/2018 10:21:53 AM - SeleniumDriver - INFO: Element found with locator: //input[@name='reg_submit'] and  locatorType: xpath
+07/04/2018 10:21:57 AM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='reg_submit'] locatorType: xpath
+07/04/2018 10:21:57 AM - SeleniumDriver - INFO: Element found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/04/2018 10:21:57 AM - SeleniumDriver - INFO: Element found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/04/2018 10:21:57 AM - SeleniumDriver - INFO: the total no of window is 1
+07/04/2018 10:21:57 AM - SeleniumDriver - INFO: switched to the desired window
+07/04/2018 10:21:57 AM - SeleniumDriver - INFO: Element  not found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/04/2018 10:22:07 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/04/2018 10:22:07 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/04/2018 10:22:11 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Activate your account')] locatorType: xpath
+07/04/2018 10:22:11 AM - SeleniumDriver - INFO: Element found with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a and  locatorType: xpath
+07/04/2018 10:22:12 AM - SeleniumDriver - INFO: Element found with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a and  locatorType: xpath
+07/04/2018 10:22:12 AM - SeleniumDriver - INFO: Clicked on element with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a locatorType: xpath
+07/04/2018 10:22:12 AM - SeleniumDriver - INFO: the total no of window is 2
+07/04/2018 10:22:12 AM - SeleniumDriver - INFO: switched to the desired window
+07/04/2018 10:22:12 AM - SeleniumDriver - INFO: Element  not found with locator: //h1[@class='entry-title'] and  locatorType: xpath
+07/04/2018 10:22:15 AM - SeleniumDriver - INFO: Element  not found with locator: //h1[@class='entry-title'] and  locatorType: xpath
+07/04/2018 10:22:18 AM - SeleniumDriver - INFO: Element found with locator: //h1[@class='entry-title'] and  locatorType: xpath
+07/04/2018 10:22:18 AM - SeleniumDriver - INFO: Element found with locator: //h1[@class='entry-title'] and  locatorType: xpath
+07/04/2018 10:22:18 AM - SeleniumDriver - INFO: Element found with locator: //a[text()='log in'] and  locatorType: xpath
+07/04/2018 10:22:22 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[text()='log in'] locatorType: xpath
+07/04/2018 10:22:22 AM - SeleniumDriver - INFO: Element found with locator: user and  locatorType: id
+07/04/2018 10:22:22 AM - SeleniumDriver - INFO: Entered the data zut33466@lakqs.com to the element found by user
+07/04/2018 10:22:22 AM - SeleniumDriver - INFO: Element found with locator: pass and  locatorType: id
+07/04/2018 10:22:22 AM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by pass
+07/04/2018 10:22:22 AM - SeleniumDriver - INFO: Element found with locator: wp-submit and  locatorType: id
+07/04/2018 10:22:27 AM - SeleniumDriver - INFO: Clicked on element with locator: wp-submit locatorType: id
+07/04/2018 10:22:32 AM - SeleniumDriver - INFO: Element found with locator: //img[contains(@src,'//storage.googleapis.com/staging-powerhouse-social/')] and  locatorType: xpath
+07/04/2018 10:22:32 AM - SeleniumDriver - INFO: Element found with locator: //img[contains(@src,'//storage.googleapis.com/staging-powerhouse-social/')] and  locatorType: xpath
+07/04/2018 10:22:32 AM - SeleniumDriver - INFO: element on locator //img[contains(@src,'//storage.googleapis.com/staging-powerhouse-social/')] is present
+
+
+
+
+07/05/2018 11:54:12 AM - SeleniumDriver - INFO: Element found with locator: //a[contains(@href,'https://accounts.google.com/')] and  locatorType: xpath
+07/05/2018 11:54:16 AM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(@href,'https://accounts.google.com/')] locatorType: xpath
+07/05/2018 11:54:18 AM - SeleniumDriver - INFO: Element found with locator: headingText and  locatorType: id
+07/05/2018 11:54:18 AM - SeleniumDriver - INFO: Element found with locator: identifierId and  locatorType: id
+07/05/2018 11:54:18 AM - SeleniumDriver - INFO: Entered the data suryakanta@abacies.com to the element found by identifierId
+07/05/2018 11:54:18 AM - SeleniumDriver - INFO: Element found with locator: //span[text()='Next'] and  locatorType: xpath
+07/05/2018 11:54:19 AM - SeleniumDriver - INFO: Clicked on element with locator: //span[text()='Next'] locatorType: xpath
+07/05/2018 11:54:21 AM - SeleniumDriver - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+07/05/2018 11:54:21 AM - SeleniumDriver - INFO: Element found with locator: //input[@type='password'] and  locatorType: xpath
+07/05/2018 11:54:21 AM - SeleniumDriver - INFO: Entered the data 9066549823 to the element found by //input[@type='password']
+07/05/2018 11:54:21 AM - SeleniumDriver - INFO: Element found with locator: //span[text()='Next'] and  locatorType: xpath
+07/05/2018 11:54:21 AM - SeleniumDriver - INFO: Clicked on element with locator: //span[text()='Next'] locatorType: xpath
+07/05/2018 11:54:34 AM - SeleniumDriver - INFO: Element found with locator: //img[contains(@src,'//storage.googleapis.com/staging-powerhouse-social/')] and  locatorType: xpath
+07/05/2018 11:54:34 AM - SeleniumDriver - INFO: Element found with locator: //img[contains(@src,'//storage.googleapis.com/staging-powerhouse-social/')] and  locatorType: xpath
+07/05/2018 11:54:34 AM - SeleniumDriver - INFO: element on locator //img[contains(@src,'//storage.googleapis.com/staging-powerhouse-social/')] is present
+07/05/2018 11:54:34 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Sucessfull login verification
+07/05/2018 11:54:34 AM - TestStatus - INFO: test_google_login ### TEST SUCCESSFUL
+07/05/2018 12:02:49 PM - SeleniumDriver - INFO: Element found with locator: fe_text and  locatorType: id
+07/05/2018 12:02:49 PM - SeleniumDriver - INFO: the total no of window is 2
+07/05/2018 12:02:49 PM - SeleniumDriver - INFO: switched to the desired window
+07/05/2018 12:02:53 PM - SeleniumDriver - INFO: Element found with locator: register-trigger and  locatorType: id
+07/05/2018 12:02:53 PM - SeleniumDriver - INFO: Element found with locator: register-trigger and  locatorType: id
+07/05/2018 12:02:53 PM - SeleniumDriver - INFO: Clicked on element with locator: register-trigger locatorType: id
+07/05/2018 12:02:55 PM - SeleniumDriver - INFO: Element found with locator: reg-name and  locatorType: id
+07/05/2018 12:02:55 PM - SeleniumDriver - INFO: Entered the data lindadb to the element found by reg-name
+07/05/2018 12:02:56 PM - SeleniumDriver - INFO: Element found with locator: reg-email and  locatorType: id
+07/05/2018 12:02:56 PM - SeleniumDriver - INFO: Entered the data pmd35174@lakqs.com to the element found by reg-email
+07/05/2018 12:02:57 PM - SeleniumDriver - INFO: Element found with locator: reg-pass and  locatorType: id
+07/05/2018 12:02:58 PM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by reg-pass
+07/05/2018 12:02:59 PM - SeleniumDriver - INFO: Element found with locator: reg-pass-confirmation and  locatorType: id
+07/05/2018 12:02:59 PM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by reg-pass-confirmation
+07/05/2018 12:03:00 PM - SeleniumDriver - INFO: Element found with locator: //input[@name='reg_submit'] and  locatorType: xpath
+07/05/2018 12:03:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@name='reg_submit'] locatorType: xpath
+07/05/2018 12:03:04 PM - SeleniumDriver - INFO: Element found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/05/2018 12:03:04 PM - SeleniumDriver - INFO: Element found with locator: //strong[contains(text(),'Registration complete.')] and  locatorType: xpath
+07/05/2018 12:03:04 PM - SeleniumDriver - INFO: the total no of window is 1
+07/05/2018 12:03:05 PM - SeleniumDriver - INFO: switched to the desired window
+07/05/2018 12:03:05 PM - SeleniumDriver - INFO: Element  not found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/05/2018 12:03:14 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/05/2018 12:03:14 PM - SeleniumDriver - INFO: Element found with locator: //a[contains(text(),'Activate your account')] and  locatorType: xpath
+07/05/2018 12:03:27 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[contains(text(),'Activate your account')] locatorType: xpath
+07/05/2018 12:03:27 PM - SeleniumDriver - INFO: Element found with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a and  locatorType: xpath
+07/05/2018 12:03:27 PM - SeleniumDriver - INFO: Element found with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a and  locatorType: xpath
+07/05/2018 12:03:27 PM - SeleniumDriver - INFO: Clicked on element with locator: //td[p[contains(text(),'Thanks for registering')]]//p[2]/a locatorType: xpath
+07/05/2018 12:03:27 PM - SeleniumDriver - INFO: the total no of window is 2
+07/05/2018 12:03:27 PM - SeleniumDriver - INFO: switched to the desired window
+07/05/2018 12:03:32 PM - SeleniumDriver - INFO: Element found with locator: //h1[@class='entry-title'] and  locatorType: xpath
+07/05/2018 12:03:32 PM - SeleniumDriver - INFO: Element found with locator: //h1[@class='entry-title'] and  locatorType: xpath
+07/05/2018 12:03:32 PM - SeleniumDriver - INFO: Element found with locator: //a[text()='log in'] and  locatorType: xpath
+07/05/2018 12:03:36 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[text()='log in'] locatorType: xpath
+07/05/2018 12:03:36 PM - SeleniumDriver - INFO: Element found with locator: user and  locatorType: id
+07/05/2018 12:03:37 PM - SeleniumDriver - INFO: Entered the data pmd35174@lakqs.com to the element found by user
+07/05/2018 12:03:37 PM - SeleniumDriver - INFO: Element found with locator: pass and  locatorType: id
+07/05/2018 12:03:37 PM - SeleniumDriver - INFO: Entered the data Surya.east09 to the element found by pass
+07/05/2018 12:03:37 PM - SeleniumDriver - INFO: Element found with locator: wp-submit and  locatorType: id
+07/05/2018 12:03:46 PM - SeleniumDriver - INFO: Clicked on element with locator: wp-submit locatorType: id
+07/05/2018 12:03:51 PM - SeleniumDriver - INFO: Element found with locator: //img[contains(@src,'//storage.googleapis.com/staging-powerhouse-social/')] and  locatorType: xpath
+07/05/2018 12:03:51 PM - SeleniumDriver - INFO: Element found with locator: //img[contains(@src,'//storage.googleapis.com/staging-powerhouse-social/')] and  locatorType: xpath
+07/05/2018 12:03:51 PM - SeleniumDriver - INFO: element on locator //img[contains(@src,'//storage.googleapis.com/staging-powerhouse-social/')] is present

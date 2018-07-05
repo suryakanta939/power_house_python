@@ -1,0 +1,11 @@
+selenium
+pytest
+pytest-ordering
+pytest-Xdist
+pytest-html
+nose
+py
+ddt
+xlrd
+wheel
+names
